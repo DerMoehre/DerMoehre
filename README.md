@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerMoehre
+- 👋 Hi, I’m @DerMoehre (Moritz)
 - 🌱 I’m currently learning Python :-)
 - 📫 How to reach me moehre2507@gmail.com
 - I am from NRW, Germany
