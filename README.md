@@ -6,6 +6,24 @@
   Welcome to my GitHub Page!🥕
 </h1>
 
+```python
+class Person:
+  def __init__(self, first_name, last_name, nickname, age):
+    self.fist_name = Moritz
+    self.last_name = Dahm
+    self.nickname = DerMoehre
+    self.age = 33
+
+  def get_education(self):
+    education = [
+      "Bachelor in industrial Engineering",
+      "Master in industrial Engineering",
+      "Self taught Python Developer"
+      ]
+    return education
+
+```
+
 <h1>
   Languages and Tools
 </h1> 
@@ -33,9 +51,7 @@
 
 <div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DerMoehre&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
-</div>  
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerMoehre&layout=compact&theme=vision-friendly-dark"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerMoehre&layout=compact&theme=onedark&hide_border=true" height="195"/></a>
 </div> 
 
 <h1>
