@@ -9,9 +9,9 @@
 ```python
 class Person:
   def __init__(self, first_name, last_name, nickname, age):
-    self.fist_name = Moritz
-    self.last_name = Dahm
-    self.nickname = DerMoehre
+    self.fist_name = "Moritz"
+    self.last_name = "Dahm"
+    self.nickname = "DerMoehre"
     self.age = 33
 
   def get_education(self):
