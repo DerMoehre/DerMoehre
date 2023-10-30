@@ -51,8 +51,7 @@ class Person:
 
 <div>
   <p align="center"><img src="https://www.codewars.com/users/DerMoehre/badges/large"></p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DerMoehre&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerMoehre&layout=compact&theme=onedark&hide_border=true" height="195"/></a>
+  <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerMoehre&layout=compact&theme=onedark&hide_border=true" height="195"/></a></p>
 </div> 
 
 <h1>
