@@ -12,14 +12,13 @@ class Person:
     self.fist_name = "Moritz"
     self.last_name = "Dahm"
     self.nickname = "DerMoehre"
-    self.age = 33
+    self.age = 34
 
   def get_education(self):
     education = [
       "Bachelor in industrial Engineering",
       "Master in industrial Engineering",
-      "Self taught Python Developer",
-      "Currently doing Odin Project for FrontEnd"
+      "Self taught Python Developer"
       ]
     return education
 
@@ -41,6 +40,7 @@ class Person:
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="0" height="0"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Juypter" alt="Juypter" width="40" height="40"/>&nbsp;
