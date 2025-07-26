@@ -12,7 +12,7 @@ class Person:
     self.fist_name = "Moritz"
     self.last_name = "Dahm"
     self.nickname = "DerMoehre"
-    self.age = 34
+    self.age = 35
 
   def get_education(self):
     education = [
